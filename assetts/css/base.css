@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+}
+:root{
+    --color-main:#232323;
+    --background-color:#efefef;
+    --color-text7:#777777;
+    --color-textb:#bbbbbb;
+    
+}
+
+a{
+text-decoration: none;
+}
+.bottom{
+    display: inline-block;
+    padding: 16px 41px;
+    text-decoration: none;
+    border: 2px solid none;
+    margin: 10px;
+    border-radius: 5px;
+}
+section {
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
